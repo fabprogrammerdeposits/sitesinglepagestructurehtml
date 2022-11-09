@@ -1,0 +1,17 @@
+header{
+    background-color: black brightness(0.4);
+      /* 40% de la clarté */
+
+}
+#sectionInternational{
+    background-color: gray;
+}
+#sectionPolitique{
+    background-color: lightslategray;
+}
+#sectionSociete{
+    background-color: gray;
+}
+footer{
+    background-color: black;
+}
